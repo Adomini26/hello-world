@@ -1,2 +1,2 @@
 # hello-world
-Just a test only - soon to be deleted
+Isn't this how it all starts?  :)
